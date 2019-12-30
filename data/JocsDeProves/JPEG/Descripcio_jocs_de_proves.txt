@@ -1,0 +1,10 @@
+El jocs de proves consisteixen en 4 arxius de diferent pes, amb els quals poder observar 
+la diferencia de comportament en quant a les estadístiques de temps i rati de compressio.
+
+Els noms dels arxius son iguals excepte en un numero. Aquest numero indica l'ordre creixent
+en pes dels arxius, sent l'arxiu que te un 1 al nom el mes lleuger i el que te el 4 el mes
+pesat.
+
+Cada joc de prova té uns colors i una composició diferent per tal de poder comprovar com actua l'algorisme en front a diferents circumstàncies.
+
+És possible que al descomprimir una imatge es vegin pixels malament, això és degut a com funciona l'algorisme, que, quan hi han colors molt diferents un al costat de l'altre no actúa de la millor forma.

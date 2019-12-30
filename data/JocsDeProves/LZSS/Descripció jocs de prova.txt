@@ -1,0 +1,6 @@
+El jocs de proves consisteixen en 4 arxius de diferent pes, amb els quals poder observar 
+la diferencia de comportament en quant a les estadístiques de temps i rati de compressio.
+
+Els noms dels arxius son iguals excepte en un numero. Aquest numero indica l'ordre creixent
+en pes dels arxius, sent l'arxiu que te un 1 al nom el mes lleuger i el que te el 4 el mes
+pesat.
